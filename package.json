@@ -1,0 +1,24 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Node Js zoom clone for peer to peer videocall meetings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vsptpm/zoom-clone.git"
+  },
+  "author": "vs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsptpm/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/vsptpm/zoom-clone#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
